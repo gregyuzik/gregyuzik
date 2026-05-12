@@ -1,6 +1,6 @@
 # Gregory Yuzik
 
-Cloud Architect & Developer. Independent developer shipping native apps across every Apple platform.
+Cloud Architect and independent developer shipping native apps across every Apple platform.
 
 ## Apps
 
