@@ -10,6 +10,7 @@ Cloud Architect and independent developer shipping native apps across every Appl
 🪝 **[Klosyt](https://klosyt.com)** — Your AI-powered digital closet. iPhone, iPad, Mac, Apple TV, Vision Pro.  
 [klosyt.com](https://klosyt.com) · [App Store](https://apps.apple.com/app/klosyt/id6758277603)
 
+
 🛠️ Swift 6 · SwiftUI · SwiftData · FoundationModels · CloudKit
 
 ## 🔗 Links
