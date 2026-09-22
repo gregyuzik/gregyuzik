@@ -4,13 +4,13 @@ Cloud Architect and independent developer shipping native apps across every Appl
 
 ## 🚀 Apps
 
-👁️ **[vultyr](https://vultyr.app)** — Is it down? Know before your users do. Uptime monitor for 300+ cloud services, dev tools, and AI providers across every Apple device. iOS, iPadOS, macOS, visionOS, watchOS, and tvOS
+👁️ **[vultyr](https://vultyr.app)** — Is it down? Know before your users do. Uptime monitor for 434 cloud services, dev tools, and AI providers across every Apple device. iOS, iPadOS, macOS, visionOS, watchOS, and tvOS  
 [vultyr.app](https://vultyr.app) · [App Store](https://apps.apple.com/app/id6761264004)
 
-🪝 **[Klosyt](https://klosyt.com)** — Your AI-powered digital closet. iOS, iPadOS, macOS, visionOS, and tvOS
+🪝 **[Klosyt](https://klosyt.com)** — Your AI-powered digital closet. iOS, iPadOS, macOS, visionOS, and tvOS  
 [klosyt.com](https://klosyt.com) · [App Store](https://apps.apple.com/app/klosyt/id6758277603)
 
-🗄️ **[Kabynyt](https://kabynyt.com)** — Universal collectibles tracker. Catalog anything — trading cards, books, movies, wine, LEGO, and more, in one app, with AI photo identification and barcode scanning. iOS  
+🗄️ **[Kabynyt](https://kabynyt.com)** — Universal collectibles tracker. Catalog anything — trading cards, books, movies, wine, LEGO, and more, in one app, with AI photo identification and barcode scanning. iOS, iPadOS, macOS, visionOS, and tvOS  
 [kabynyt.com](https://kabynyt.com) · [App Store](https://apps.apple.com/app/kabynyt/id6771412493)
 
 
