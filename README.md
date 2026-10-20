@@ -21,4 +21,4 @@ Cloud Architect and independent developer shipping native apps across every Appl
 
 ## 🔗 Links
 
-[gregyuzik.github.io](https://gregyuzik.github.io) · [linkedin.com/in/gregyuzik](https://linkedin.com/in/gregyuzik)
+[gregyuzik.com](https://www.gregyuzik.com) · [linkedin.com/in/gregyuzik](https://linkedin.com/in/gregyuzik)
