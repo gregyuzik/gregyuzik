@@ -16,6 +16,9 @@ Cloud Architect and independent developer shipping native apps across every Appl
 🪞 **[Compact](https://www.compactfoldingmirror.app)** — A makeup mirror for iPhone Duo. The edge of the screen lights your face, and a second mirror magnifies 2.5×. iOS  
 [compactfoldingmirror.app](https://www.compactfoldingmirror.app) · [App Store](https://apps.apple.com/app/id6822035246)
 
+🪟 **[LiveWindow](https://www.gregyuzik.com/livewindow/)** — Live camera views on any wall. Your HomeKit cameras as windows in Apple Vision Pro, with frames, shades, a windowsill and soundscapes. visionOS  
+[gregyuzik.com/livewindow](https://www.gregyuzik.com/livewindow/) · [App Store](https://apps.apple.com/app/id6768288469)
+
 
 🛠️ Swift 6 · SwiftUI · SwiftData · FoundationModels · CloudKit
 
