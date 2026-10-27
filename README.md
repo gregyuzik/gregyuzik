@@ -4,7 +4,7 @@ Cloud Architect and independent developer shipping native apps across every Appl
 
 ## 📦 Open source
 
-💬 **[AskKit](https://github.com/gregyuzik/AskKit)** — A complete Ask screen for SwiftUI apps: answers grounded in your app's data, from Apple's Foundation Models on Private Cloud Compute or on the device. A Swift package under the MIT license. iOS, iPadOS, macOS, and visionOS, with the engine on tvOS and watchOS too  
+💬 **[AskKit](https://github.com/gregyuzik/AskKit)** — Add a conversational AI interface to your SwiftUI app. People ask questions in their own words, and a large language model answers from your app's data, using Apple's Foundation Models on device or on Private Cloud Compute. A Swift package under the MIT license. iOS, iPadOS, macOS, and visionOS, with the engine on tvOS and watchOS too  
 [github.com/gregyuzik/AskKit](https://github.com/gregyuzik/AskKit) · [Release 0.1.0](https://github.com/gregyuzik/AskKit/releases/tag/v0.1.0)
 
 ## 🚀 Apps
